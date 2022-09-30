@@ -1,2 +1,2 @@
 # Primeiro-Desafio
-Criado para o primeiro desafio de projeto
+Repositório criado para o primeiro desafio de projeto
