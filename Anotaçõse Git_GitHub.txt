@@ -1,0 +1,6 @@
+Git add .  Ou  Git add -a
+Adiciona todos os arquivos novos
+
+Git commit -m "Inclusão das anotações"
+
+Git push origin main
